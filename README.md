@@ -8,3 +8,4 @@
 | Review of Probability Theory                                          | HW-1             | 
 | Poisson process, Stationary process                                   | HW-9             | 
 | Poisson process, Compound Poisson process, Renewal process            | HW-10            | 
+| Second-moment process, Strictly/Weakly Stationary process             | HW-11            | 
