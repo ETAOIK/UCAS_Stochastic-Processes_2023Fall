@@ -16,4 +16,4 @@ by 中国科学院大学电子电气与通信工程学院 孙应飞教授
 | Spectral Analysis of Stationary Stochastic Process                    | HW-14              | 
 | Gaussian process, Wiener process                                      | HW-15              | 
 
-第五章3/4/5题、第六章3/4/5/6/7题课堂并未布置作业，但HW14/HW15附上了本人的答案，供学有余力的同学参考
+第三章10/11题、第五章3/4/5题、第六章3/4/5/6/7题课堂并未布置作业，但HW10/HW14/HW15附上了本人的答案，供学有余力的同学参考
